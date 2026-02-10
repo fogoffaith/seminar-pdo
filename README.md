@@ -41,7 +41,15 @@ Form untuk mengedit nama atau jadwal seminar:
 
 ![Description](/screenshots/edit_seminar.png)          
 
-### User
+### User:
 
-foto dan deskripsi menyusul
+Tampilan Dashboard User, menampilkan daftar seminar yg tersedia:
 
+![Description](/screenshots/user_blomdaftar.png) 
+
+Tampilan Detail Seminar:
+
+![Description](/screenshots/user_detail.png) 
+
+Tampilan Dashboard user ketika sudah mendaftar:
+![Description](/screenshots/user_udahdaftar.png) 
