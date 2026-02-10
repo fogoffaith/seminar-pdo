@@ -23,6 +23,21 @@ Karyawan (user) yang belum memiliki akun bisa mendaftar:
 
 ![Description](/screenshots/register.png)   
 
+### Info Login:
+
+#### Admin: 
+- Email: admin@seminar.com
+- Password: admin123
+
+#### User 1: 
+- Email: tes@tes.tes
+- Password: user
+
+#### User 2:
+- Email: uhi@uhi.uhi
+- Password: uhi
+
+
 ### Admin:
 
 Dashboard Admin untuk melihat seminar dan fungsi fungsi lainnya:
@@ -53,3 +68,4 @@ Tampilan Detail Seminar:
 
 Tampilan Dashboard user ketika sudah mendaftar:
 ![Description](/screenshots/user_udahdaftar.png) 
+
