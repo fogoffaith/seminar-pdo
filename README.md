@@ -23,7 +23,7 @@ Karyawan (user) yang belum memiliki akun bisa mendaftar:
 
 ![Description](/screenshots/register.png)   
 
-### Admin
+### Admin:
 
 Dashboard Admin untuk melihat seminar dan fungsi fungsi lainnya:
 
