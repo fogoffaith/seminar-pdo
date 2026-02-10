@@ -1,2 +1,19 @@
-kan gini: Admin mengelola daftar peserta, materi training, dan feedback.
-berarti beda antara daftar peserta, sama user. user yaudah, semua karyawan, peserta tuh yang ikut training aj, jadi, cara kerjanya, admin bisa crud trainingnya (judul training, materi, waktu, lokasi dll) nah, user dia bisa liat list training yang ada, yg  kalo dipencet muncul form pendaftaran, pas udah daftar, masuk dah tuh dia ke daftar peserta dari seminar yang dia daftarin. nah, nanti di admin ada fitur kelola seminar, di fitur kelola seminar tuh, sama kek di list training yang ke user, bedanya yg ini, kalo dipencet dia keluarnya bukan form, tapi data siapa aja peserta yang ikut, dan checkbox dia hadir apa nggak. nanti pas seminar berlangsung, baru disitu dicek ama admin, orangnya hadir apa nggak. gitu
+# Seminar Management Web Application
+
+The Seminar Management Web Application is designed to streamline the organization and management of seminars, workshops, and conferences. It provides features for event scheduling, registration management, participant tracking, and feedback collection. The application aims to enhance user experience by providing a user-friendly interface and efficient backend functionalities.
+
+## Key Features
+- **Event Scheduling**: Create and manage seminars with ease.
+- **Registration Management**: Allow participants to register online, manage their registrations, and receive confirmation emails.
+- **Participant Tracking**: Keep track of attendees, including their preferences and feedback.
+- **Feedback Collection**: Gather feedback from participants post-event to improve future seminars.
+
+## Technologies Used
+- PHP for backend development
+- MySQL for database management
+- HTML, CSS, and JavaScript for frontend user interface
+
+## Getting Started
+1. Clone the repository.
+2. Set up your environment with required technologies.
+3. Run the application and start managing your seminars!
